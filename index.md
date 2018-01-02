@@ -1,6 +1,6 @@
 # Welcome to my Github Page!!!
 
-You can find links to all of my assignments for Mini-AU in this github page.
+You can find links to all my assignments of Mini-AU in this github page.
 
 ## List of Assignments :-
 
