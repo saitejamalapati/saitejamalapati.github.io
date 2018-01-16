@@ -14,7 +14,7 @@ You can find links to all my assignments of Mini-AU in this github page.
 <a href="https://github.com/saitejamalapati/SoapAssignment">Soap Services Assignment</a><br>
 <a href="https://github.com/saitejamalapati/RestServices">REST Services Assignment</a><br>
 <a href="https://github.com/saitejamalapati/MavenAssignment">Maven Assignment</a><br>
-<a href="https://github.com/saitejamalapati/DesignPrinciples">Design Principles Assignment</a><br><br><br><br>
+<a href="https://github.com/saitejamalapati/DesignPrinciples">Design Principles Assignment</a><br>
 <a href="https://github.com/saitejamalapati/AngularAssignment">Angular JS</a><br>
 <a href="https://github.com/saitejamalapati/SpringAssignment">Spring Assignment</a><br>
 <a href="https://github.com/saitejamalapati/CodeQuality">Code Quality</a><br><br><br><br>
